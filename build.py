@@ -8,7 +8,7 @@ import emoji
 from python_graphql_client import GraphqlClient
 
 
-USERNAME = "glasnt"
+USERNAME = "davesgonechina"
 GITHUB_TOKEN = os.environ.get("API_TOKEN", "")
 
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
