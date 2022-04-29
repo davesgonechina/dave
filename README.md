@@ -20,7 +20,7 @@
                                     |                                      ||                                      |
  Solicitor and Commissioner for     |______________________________________||______________________________________|
                                     |                                      |                                        
- ¤ 12 followers · ✭ 611             | [] OAJournals2014                    |
+ ¤ 12 followers · ✭ 612             | [] OAJournals2014                    |
                                     |                                      |
  http://www.stevegutenberg.org/     | ShinyApp utilizing Walt              |
                                     | Crawford's OA journal data           |
