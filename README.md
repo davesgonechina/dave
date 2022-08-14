@@ -20,7 +20,7 @@
                                     |                                      ||                                      |
  Solicitor and Commissioner for     |______________________________________||______________________________________|
                                     |                                      ||                                      |
- ¤ 12 followers · ✭ 618             | [] coursera_data_science_specializa  || [] OAJournals2014                    |
+ ¤ 12 followers · ✭ 619             | [] coursera_data_science_specializa  || [] OAJournals2014                    |
                                     |                                      ||                                      |
  http://www.stevegutenberg.org/     | Course materials for the Data        || ShinyApp utilizing Walt              |
                                     | Science Specialization: https://     || Crawford's OA journal data           |
