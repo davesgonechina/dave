@@ -2,30 +2,30 @@
         *%S%?*?**+%%??%*             Popular repositories                                                         ✨
      :*???%%?****?S???%%?+;          ______________________________________  ______________________________________ 
     %%????S%?*?*??S??%S%?**+        |                                      ||                                      |
-  :+SSSSS%SSS?*%?%?*?SS%%%??*+      | [] docker-known                      || [] davesgonechina                    |
+  :+SSSSS%SSS?*%?%?*?SS%%%??*+      | [] docker-known                      || [] dbt-codegen                       |
  *???%SS**%%****+*++?S%SS%%%*;:     |                                      ||                                      |
- S??%?%S*?SS??????*+%??SS%*%?:;     | A quick and dirty untested           ||                                      |
+ S??%?%S*?SS??????*+%??SS%*%?:;     | A quick and dirty untested           || Macros that generate dbt code        |
  S???**%%S%**??%%%??%?%%%%+??++     | update to Eric Hansander's Known     ||                                      |
  S%????SSS?++??%?*****%%S%;+**+     |                                      ||                                      |
- S%??%SS%%??**?%?*+?++?%%%+++++     | Shell ✭ 3 ↡ 1                        || Python ✭ 1                           |
+ S%??%SS%%??**?%?*+?++?%%%+++++     | Shell ✭ 3 ↡ 1                        ||                                      |
  #%%?*+*????*?????+*++??++?%?*+     |                                      ||                                      |
  ?%%??+;+*?*+**+?*+?*%%?;;????;     |______________________________________||______________________________________|
   *??*++***+*???%?*??%??+;???%      |                                      ||                                      |
-    %*;;*%%%??S#S?**?*??***S        | [] dbt-codegen                       || [] dbt-generator                     |
+    %*;;*%%%??S#S?**?*??***S        | [] dbt-generator                     || [] dbt-audit-helper                  |
      *+;*?????*%+,,;**????,         |                                      ||                                      |
-        +??*???S;::*?*?%            | Macros that generate dbt code        || dbt-generator - Generate and         |
-                                    |                                      || transform base models for dbt        |
+        +??*???S;::*?*?%            | dbt-generator - Generate and         || Useful macros when performing        |
+                                    | transform base models for dbt        || data audits                          |
  WW Henderson                       |                                      ||                                      |
- davesgonechina                     |                                      || Python                               |
+ davesgonechina                     | Python                               || SQL                                  |
                                     |                                      ||                                      |
  Solicitor and Commissioner for     |______________________________________||______________________________________|
                                     |                                      ||                                      |
- ¤ 12 followers · ✭ 629             | [] dbt-audit-helper                  || [] shadowsocks                       |
+ ¤ 12 followers · ✭ 629             | [] davesgonechina                    || [] shadowsocks                       |
                                     |                                      ||                                      |
- http://www.stevegutenberg.org/     | Useful macros when performing        || FFS                                  |
-                                    | data audits                          ||                                      |
+ http://www.stevegutenberg.org/     |                                      || FFS                                  |
                                     |                                      ||                                      |
-                                    | SQL                                  || Python                               |
+                                    |                                      ||                                      |
+                                    | Python                               || Python                               |
                                     |                                      ||                                      |
                                     |______________________________________||______________________________________|
                                     
