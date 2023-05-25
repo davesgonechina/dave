@@ -22,7 +22,7 @@
                                     |                                      ||                                      |
  ¤ 12 followers · ✭ 646             | [] davesgonechina                    || [] shadowsocks                       |
                                     |                                      ||                                      |
- http://www.stevegutenberg.org/     |                                      || FFS                                  |
+ None                               |                                      || FFS                                  |
                                     |                                      ||                                      |
                                     |                                      ||                                      |
                                     | Python                               || Python                               |
